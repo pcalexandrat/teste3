@@ -5,11 +5,11 @@ h1 {color:rgb(89, 78, 64);
     align-items: center;
 }
 #pitanga{
-    max-width:150px;
-    max-height: 90px;
+    max-width:250px;
+    max-height: 100px;
 }
 #kyiv {
-    width: 80%;
+    width: 100%;
 }
 /*img {
     align-items: center;
